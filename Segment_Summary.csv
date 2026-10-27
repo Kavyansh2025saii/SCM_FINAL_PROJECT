@@ -1,0 +1,5 @@
+Segment_Name,Customers,Avg_Orders,Avg_Quantity,Avg_Spend,Avg_Recency
+At-Risk Customers,1079,1.58,267.63,520.06,246.14
+High-Spending Customers,7,65.43,89650.43,184143.69,5.71
+Loyal Customers,48,42.85,22395.52,35163.48,16.54
+Regular Customers,3204,4.47,991.42,1677.1,40.78
